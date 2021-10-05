@@ -1,5 +1,5 @@
 int a=10;
 int b=20;
 int c=17;
-int kinki=69;
+int k=67;
 
