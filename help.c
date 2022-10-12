@@ -9,7 +9,7 @@ int main()
         for(space=1; space <= rows-i; ++space)
         {
             printf("  ");
-            ++count;
+            ++count++;
         }
         while(k != 2*i-1)
         {
